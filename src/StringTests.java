@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class StringTests {
 
     public static void main(String[]args) {
@@ -31,5 +33,11 @@ public class StringTests {
         String letter= "abcde";
         String moreLetter= "fghij";
         System.out.println(letter.compareTo(moreLetter));
+
+        String[] letterArray= new String[]{letter, moreLetter};
+        for (int i = 0; i < letterArray.length; i++) {
+            System.out.println(Arrays.toString(letterArray));
+
+        }
     }
 }
