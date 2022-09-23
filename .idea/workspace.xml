@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0dcb96f-e4ae-49bc-981d-040c2b54da20" name="Changes" comment="First intial in String">
+    <list default="true" id="e0dcb96f-e4ae-49bc-981d-040c2b54da20" name="Changes" comment="String testing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StringTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringTests.java" afterDir="false" />
     </list>
@@ -44,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663923722317</updated>
-      <workItem from="1663923723489" duration="5291000" />
+      <workItem from="1663923723489" duration="7190000" />
     </task>
     <task id="LOCAL-00001" summary="First intial in String">
       <created>1663932588677</created>
@@ -53,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663932588677</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="String testing">
+      <created>1663934731265</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663934731265</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +79,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First intial in String" />
-    <option name="LAST_COMMIT_MESSAGE" value="First intial in String" />
+    <MESSAGE value="String testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="String testing" />
   </component>
 </project>
